@@ -1,0 +1,29 @@
+[
+  {
+    "student_id": "2022-32561",
+    "fullname": "Ferly Ann Samson",
+    "birthdate": "2003-02-18",
+    "address": "Linao Ormoc City",
+    "department": "Information Technology",
+    "course": "BSIT",
+    "subjects_enrolled": ["IT-383"]
+  },
+  {
+    "student_id": "2020-31527",
+    "fullname": "Edna Ortiza",
+    "birthdate": "2002-01-21",
+    "address": "Casilda Merida Leyte",
+    "department": "Information Technology",
+    "course": "BSIT",
+    "subjects_enrolled": ["IT-Electives"]
+  },
+  {
+    "student_id": "2020-31648",
+    "fullname": "Cherry Mae Orteza",
+    "birthdate": "2001-04-16",
+    "address": "Casilda Merida Leyte",
+    "department": "Information Technology",
+    "course": "BSIT",
+    "subjects_enrolled": ["Software Engineering"]
+  }
+]
